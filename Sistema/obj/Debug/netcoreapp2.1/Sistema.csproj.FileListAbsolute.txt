@@ -1,0 +1,13 @@
+C:\Users\igorm\source\repos\Sistema\Sistema\bin\Debug\netcoreapp2.1\Sistema.deps.json
+C:\Users\igorm\source\repos\Sistema\Sistema\bin\Debug\netcoreapp2.1\Sistema.runtimeconfig.json
+C:\Users\igorm\source\repos\Sistema\Sistema\bin\Debug\netcoreapp2.1\Sistema.runtimeconfig.dev.json
+C:\Users\igorm\source\repos\Sistema\Sistema\bin\Debug\netcoreapp2.1\Sistema.dll
+C:\Users\igorm\source\repos\Sistema\Sistema\bin\Debug\netcoreapp2.1\Sistema.pdb
+C:\Users\igorm\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.1\Sistema.csproj.AssemblyReference.cache
+C:\Users\igorm\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.1\Sistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorm\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.1\Sistema.AssemblyInfoInputs.cache
+C:\Users\igorm\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.1\Sistema.AssemblyInfo.cs
+C:\Users\igorm\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.1\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\igorm\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.1\Sistema.dll
+C:\Users\igorm\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.1\Sistema.pdb
+C:\Users\igorm\source\repos\Sistema\Sistema\obj\Debug\netcoreapp2.1\Sistema.genruntimeconfig.cache
